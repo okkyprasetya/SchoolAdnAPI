@@ -1,0 +1,6 @@
+@SchoolAdnAPI_HostAddress = http://localhost:5277
+
+GET {{SchoolAdnAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
